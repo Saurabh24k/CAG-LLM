@@ -1,0 +1,8 @@
+# Exclude virtual environment and sensitive files
+cag/
+*.env
+*.json
+*.pem
+.DS_Store
+*.pyc
+__pycache__/
