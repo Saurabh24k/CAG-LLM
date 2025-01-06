@@ -6,3 +6,4 @@ cag/
 .DS_Store
 *.pyc
 __pycache__/
+.streamlit/secrets.toml
