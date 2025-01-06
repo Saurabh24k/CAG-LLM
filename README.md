@@ -8,16 +8,13 @@ This project demonstrates how to enhance language model efficiency using caching
 ## 📖 Table of Contents
 
 - [Project Overview](#project-overview)
-- [Key Features](#key-features)
 - [Tech Stack](#tech-stack)
 - [Architecture](#architecture)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Cache Mechanism](#cache-mechanism)
 - [How It Works](#how-it-works)
-- [Deployment Guide](#deployment-guide)
 - [Future Enhancements](#future-enhancements)
-- [License](#license)
 
 ---
 
@@ -136,7 +133,4 @@ The caching system uses a singleton cache manager with the following steps:
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
 
