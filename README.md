@@ -3,7 +3,7 @@
 **An intelligent, professional, and visually intuitive Chatbot using Cache Augmented Generation (CAG) for faster and smarter LLM responses.**  
 This project demonstrates how to enhance language model efficiency using caching, embeddings, and real-time performance monitoring.
 
-**Demo Link: **https://cag-llm.streamlit.app/ 
+Demo Link: https://cag-llm.streamlit.app/ 
 
 ---
 
