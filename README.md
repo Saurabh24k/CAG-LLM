@@ -32,7 +32,7 @@ The **Cache Augmented Generation (CAG)** Chatbot is a professional chatbot desig
 
 - **Frontend:** [Streamlit](https://streamlit.io/)
 - **Backend:** Python with subprocess-based LLM querying
-- **LLM Integration:** LLaMA3 and Ollama (configurable in `generation_model.py`)
+- **LLM Integration:** Demo : Mistral-7B-Instruct-v0.3, Offline : LLaMA3 and Ollama (configurable in `generation_model.py`)
 - **Data Handling:** NumPy, Pandas
 - **Visualization:** Plotly, Streamlit Components
 - **Embedding Generation:** Custom vector embedding methods
