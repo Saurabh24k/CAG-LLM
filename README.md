@@ -129,7 +129,7 @@ The caching system uses a singleton cache manager with the following steps:
 
 ## 🚧 Future Enhancements
 
-- 🔧 Integration with more LLMs like GPT-4, PaLM, and Claude.
+- 🔧 Integration with more LLMs like GPT-4, Gemini, and Claude.
 - 🔧 Implement a distributed caching system for scalability.
 - 🔧 Add support for additional languages and models.
 
